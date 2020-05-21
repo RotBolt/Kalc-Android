@@ -11,4 +11,4 @@ Awesome Kalculator following Material Design and with basic arithmetic operation
 
 
 
-## Made with :blue_heart: & [KParser](https://github.com/kaenlupus/KParser)
+## Made with :blue_heart: & [KParser](https://github.com/RotBolt/KParser)
